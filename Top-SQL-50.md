@@ -13,3 +13,7 @@ Q.no| Leetcode Question Name| Solved ?| Difficulty|
 595|[Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)|✅|[Easy](./leetcode/SQL/595.sql)
 1148|[Article Views I](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)|✅|[Easy](./leetcode/SQL/1148.sql)
 1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets?envType=study-plan-v2&envId=top-sql-50)|✅|[Easy](./leetcode/SQL/1683.sql)
+
+# Basic Joins
+Q.no| Leetcode Question Name| Solved ?| Difficulty| 
+---|----|----|---|
